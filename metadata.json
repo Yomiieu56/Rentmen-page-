@@ -1,0 +1,6 @@
+{
+  "name": "Realistic Woman Voice Generator",
+  "description": "An AI-powered voice generation studio that uses Gemini to transform text into realistic human speech, with support for reference audio analysis.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
